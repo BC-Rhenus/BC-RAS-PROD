@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 2662820004 - NamedType 1186972230" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% VAT (Export Supply)</source>
+          <target>0% MwSt (Export Versorgung)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtVat1</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3568849675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% VAT (IC-supply)</source>
+          <target>0% MwSt (IC-Versorgung)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtVat2</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 4206546292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% VAT (Reverse Charge)</source>
+          <target>0% MwSt (Verschoben)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtVat3</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 849003568" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% Dutch VAT - Export supply (Article 146 EU VAT Directive Applies)</source>
+          <target>0% Niederländische MwSt - Export Versorgung (Artikel 146 EU MwSt Richtlinie)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtFooter1</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1486700185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% Dutch VAT - IC-supply (Article 138 VAT Directive)</source>
+          <target>0% Dutch VAT ═ Intra-Community-Supply (Article 138 VAT Directive)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtFooter2</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2124396802" size-unit="char" translate="yes" xml:space="preserve">
+          <source>0% Dutch VAT - Reverse Charge (VAT shifted to customer, Article 12-3, Dutch VAT Act)</source>
+          <target>0% Niederländische MwSt - Verschoben (MwSt verschoben nach Kunden, Artikel 12-3, Niederländische MwSt Richtlinie)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TxtFooter3</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 916058961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoiced price excludes all taxes. All sales are expressly subject to Endostim's standard                    terms and conditions ("Terms") as posted online at www.endostim.com/TermsandConditions/Nov2013</source>
+          <target>Invoiced price excludes all taxes. All sales are expressly subject to Endostim's standard                    terms and conditions ("Terms") as posted online at http://www.endostim.com/de/AGB</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Footer1EndoStim</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

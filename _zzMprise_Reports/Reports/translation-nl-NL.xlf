@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-NL" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3487779250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customs Invoice SO16</source>
+          <target>Exportfactuur SO16</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Invoice SO16</source>
+          <target>Vooruitbetalingsfactuur SO16</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Verkooporder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Verkooporder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Quote</source>
+          <target>Verkoop - Offerte</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote</source>
+          <target>Verkoopofferte</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opties</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Aantal exemplaren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opties</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Interne informatie weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Aantal exemplaren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Document archiveren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Interne informatie weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Document archiveren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opties</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Aantal exemplaren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Interne informatie weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Document archiveren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Interactie registreren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Interactie registreren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - Control 4225320787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Assemblagecomponenten weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - Control ShowAssemblyComponents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales rep</source>
+          <target>Verkoper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Verkoper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Totaal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl VAT</source>
+          <target>Totaal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Totaal %1 incl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Totaal %1 incl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customs Invoice%1</source>
+          <target>Orderbevestiging%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote %1</source>
+          <target>Verkoop - Offerte %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Pagina %1 van %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Pagina %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Totaal %1 excl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Totaal %1 excl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create a follow-up to-do?</source>
+          <target>Wilt u een taak voor opvolging maken?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Specificatie btw-bedrag in </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokale valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Specificatie btw-bedrag in </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokale valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Wisselkoers: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Wisselkoers: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1650498060" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType InvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2826867220" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefoon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoPhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>Btw-nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 322581705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>Btw-nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 13422290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType GiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1454106313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoGiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3618206462" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Information</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType BankCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1275674192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Information</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoBankNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 54637232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Rekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType AccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1739113461" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Rekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoBankAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 4217840372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Verzenddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType ShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 276957153" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Verzenddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesHeaderShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Ordernr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 17364278" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote No.</source>
+          <target>Offertenr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesHeaderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1765996780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Homepage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType HomePageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 973567044" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopdimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType HeaderDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Eenheidsprijs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 4272535733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopdimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType HeaderDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2136812451" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>Korting %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesLineLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 58636702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.%</source>
+          <target>Korting %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType DiscountPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3202350530" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesLineInvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 112887660" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Contantkorting op btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PaymentDiscountVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Regeldimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 232398666" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Contantkorting op btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType VATDiscountAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Basisbedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3701122699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Regeldimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType LineDimensionsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Btw-identificatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1688458226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Btw %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType VATAmountLineVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Verzendadres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType ShiptoAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Basisbedrag btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 920404561" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <target>Grootboekrekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType GLAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3405969474" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType VATAmountSpecificationCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Regelbedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3013644840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Specification</source>
+          <target>Specificatie vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PrepaymentSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2585230207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Basisbedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType InvoiceDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2312565509" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PrepaymentVATAmtSpecCapLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1713022124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType InvoiceDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1661789281" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepmt. Payment Terms</source>
+          <target>Betalingscondities vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PrepmtPmtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Totaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefoonnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 232471621" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Verzendadres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType ShiptoAddressCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3668807294" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Btw-identificatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesLineVATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3884610169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Btw %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 1105229007" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Betalingscondities</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType PaymentTermsDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Basisbedrag btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2332305503" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Verzendwijze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType ShipmentMethodDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 164013595" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Startpagina</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoHomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2377105323" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType CompanyInfoEmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Regelbedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Documentdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Totaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2662820004 - NamedType 3012467569" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target>Factuurkorting toestaan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Quote - NamedType SalesLineAllowInvoiceDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Eenheidsprijs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Betalingsvoorwaarden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Freight Terms</source>
+          <target>Verzendwijze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Orderdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3487779250 - NamedType 3288550091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target>Factuurkorting toestaan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Customs Invoice - NamedType AllowInvDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Interactie registreren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - Control 4225320787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Assemblagecomponenten weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - Control ShowAssemblyComponents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales rep</source>
+          <target>Verkoper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Totaal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Totaal %1 incl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Invoice%1</source>
+          <target>Orderbevestiging%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Pagina %1 van %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Totaal %1 excl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Specificatie btw-bedrag in </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokale valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Wisselkoers: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1650498060" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType InvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>Btw-nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 13422290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType GiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3618206462" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Information</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType BankCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 54637232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Rekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType AccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 4217840372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Verzenddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType ShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Ordernr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1765996780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Homepage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType HomePageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 4272535733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopdimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType HeaderDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 58636702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.%</source>
+          <target>Korting %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType DiscountPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 112887660" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Contantkorting op btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PaymentDiscountVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Regeldimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Basisbedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Btw-identificatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Verzendadres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType ShiptoAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 920404561" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <target>Grootboekrekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType GLAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3013644840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Specification</source>
+          <target>Specificatie vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PrepaymentSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2312565509" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PrepaymentVATAmtSpecCapLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1661789281" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepmt. Payment Terms</source>
+          <target>Betalingscondities vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PrepmtPmtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefoonnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3884610169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Btw %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Basisbedrag btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Regelbedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Totaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Eenheidsprijs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Betalingsvoorwaarden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Freight Terms</source>
+          <target>Verzendwijze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Orderdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3205271629 - NamedType 3288550091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target>Factuurkorting toestaan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Prepayment Invoice - NamedType AllowInvDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation SO16</source>
+          <target>Orderbevestiging SO16</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Verkooporder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opties</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Aantal exemplaren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Interne informatie weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 3255118903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Document archiveren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control ArchiveDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Interactie registreren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - Control 4225320787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Assemblagecomponenten weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - Control ShowAssemblyComponents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales rep</source>
+          <target>Verkoper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Totaal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Totaal %1 incl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation%1</source>
+          <target>Orderbevestiging%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Pagina %1 van %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Totaal %1 excl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Specificatie btw-bedrag in </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokale valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Wisselkoers: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1650498060" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType InvDiscAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1306668226" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <target>Btw-nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 13422290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType GiroNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3618206462" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Information</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType BankCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 54637232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Rekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType AccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 4217840372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Verzenddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType ShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Ordernr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1765996780" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Homepage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType HomePageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1877430892" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType EmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 4272535733" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopdimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType HeaderDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 58636702" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.%</source>
+          <target>Korting %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType DiscountPercentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 112887660" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Contantkorting op btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PaymentDiscountVATCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 960460070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Regeldimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType LineDimCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1378777375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Basisbedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType InvDiscBaseAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2012124496" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Btw-identificatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATIdentifierCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1637538090" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Verzendadres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType ShiptoAddrCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 920404561" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Account No.</source>
+          <target>Grootboekrekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType GLAccountNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3013644840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment Specification</source>
+          <target>Specificatie vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PrepaymentSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2312565509" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepayment VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PrepaymentVATAmtSpecCapLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1661789281" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepmt. Payment Terms</source>
+          <target>Betalingscondities vooruitbetaling</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PrepmtPmtTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefoonnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3884610169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Btw %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATPercentageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1303359398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Basisbedrag btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATBaseCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1396908878" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType VATAmtSpecCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3548486750" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Regelbedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType LineAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Totaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Eenheidsprijs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Betalingsvoorwaarden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Freight Terms</source>
+          <target>Verzendwijze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Orderdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1486142650 - NamedType 3288550091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allow Invoice Discount</source>
+          <target>Factuurkorting toestaan</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Order Confirmation - NamedType AllowInvDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Credit Memo</source>
+          <target>Verkoop - Creditnota</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - ReportDataItem 552782286 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Credit Memo</source>
+          <target>Geboekte verkoopcreditnota</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - ReportDataItem Sales Cr.Memo Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Opties</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - Control 2578066365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Copies</source>
+          <target>Aantal exemplaren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - Control NoOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - Control 316520822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Internal Information</source>
+          <target>Interne informatie weergeven</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - Control ShowInternalInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - Control 816368762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Interactie registreren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - Control LogInteraction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales rep</source>
+          <target>Verkoper</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Totaal %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Totaal %1 incl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(Applies to %1 %2)</source>
+          <target>(Vereffent %1 %2.)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPIE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Credit Note%1</source>
+          <target>Verkoop - Creditnota%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Pagina %1 van %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Totaal %1 excl. btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification in </source>
+          <target>Specificatie btw-bedrag in </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Currency</source>
+          <target>Lokale valuta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange rate: %1/%2</source>
+          <target>Wisselkoers: %1/%2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Prepmt. Credit Memo %1</source>
+          <target>Verkoop - Vooruitbetalingscreditnota %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 4264908145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <target>Telefoon</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoPhoneNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3448977668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <target>Btw-nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoVATRegNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 4010998532" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Giro No.</source>
+          <target>Gironr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoGiroNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3907868757" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Information</source>
+          <target>Bank</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoBankNameCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 175863088" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Account No.</source>
+          <target>Rekeningnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoBankAccNoCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1457731004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Memo No.</source>
+          <target>Creditnotanr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType No1_SalesCrMemoHeaderCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2869466049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Boekingsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType SalesCrMemoHeaderPostDtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1155328579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Documentdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType DocumentDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 164013595" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home Page</source>
+          <target>Homepage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyInfoHomePageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 217522315" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType CompanyINfoEmailCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3652186792" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Dimensions</source>
+          <target>Kopdimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType HeaderDimCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 4190945604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Eenheidsprijs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType UnitPriceCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 976774305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType AmountCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 4256140942" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Return Receipt Date</source>
+          <target>Geboekte retourontvangstdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType PostedReceiptDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3828308903" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType InvDiscAmt_SalesCrMemoLineCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 69252687" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType SubtotalCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1820188381" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Discount on VAT</source>
+          <target>Contantkorting op btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType LineAmtInvDiscAmt_SalesCrMemoLineCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3365690297" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Clause</source>
+          <target>Btw-clausule</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATClausesCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1559168207" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Dimensions</source>
+          <target>Regeldimensies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType LineDimCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2485276663" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount Specification</source>
+          <target>Specificatie btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtSpecificationCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3729099473" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Base Amount</source>
+          <target>Basisbedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineInvDiscBaseAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 772663164" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target>Regelbedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineLineAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3294671814" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount Amount</source>
+          <target>Bedrag factuurkorting</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineInvoiceDiscAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3515368888" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target>Verzendadres</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType ShiptoAddressCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3805154887" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT %</source>
+          <target>Btw %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineVATCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2717656980" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Base</source>
+          <target>Basisbedrag btw</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineVATBaseCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 1029123599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Btw-bedrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineVATAmtCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 2523555250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Identifier</source>
+          <target>Btw-identificatie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType VATAmtLineVATIdentifierCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3896701571" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Totaal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType TotalCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2996458967 - NamedType 3483640192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <target>Korting %</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Rhenus Sales - Credit Memo - NamedType SalesCrMemoLineDiscCaptionLbl</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

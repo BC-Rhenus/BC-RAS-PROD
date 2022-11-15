@@ -1,0 +1,28 @@
+{
+  "id": "b43bb4a4-31ce-4a07-9600-1e468c97b3b6",
+  "name": "Rhenus_Advanced_Services",
+  "publisher": "Rhenus Contract Logistics",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Extensions created by Rhenus Contract Logistics for Rhenus Advanced Services.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Rhenus_Advanced_Services.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2",
+  "target": "Internal",
+  "features": [ "TranslationFile" ]
+}
