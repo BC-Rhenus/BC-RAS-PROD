@@ -18,6 +18,9 @@ report 50018 "Export Sales Invoice/Shipment"
 //  - Modified trigger OnAfterGetRecord()
 //  - Deleted procedure ProcessFTPFile()
 
+//  RHE-AMKE 30-06-2022 BDS-6441
+//  - Modified Control On Exclude/Include Interface
+
 {
     UsageCategory = Tasks;
     ApplicationArea = All;
@@ -48,9 +51,21 @@ report 50018 "Export Sales Invoice/Shipment"
                 IFRecordParam: Record "Interface Record Parameters";
                 Export: Boolean;
             begin
-                //Check if customer is setup to send EDI invoice
+                //Check if customer is setup to send EDI invoice and ExclReasonEDI is not true
                 Customer.Get("Sales Invoice Header"."Sell-to Customer No.");
-                if Customer."Send EDI Invoice" then begin
+                //Check has reason code and if has then check that sis flaged or no! Begin BDS-6441 
+                if "Sales Invoice Header"."Reason Code" <> '' then begin
+                    ResCode.Get("Sales Invoice Header"."Reason Code");
+                    if ResCode.ExclReasonEDI then
+                        MyExclReasonEDI := true
+                    else
+                        MyExclReasonEDI := false;
+                end else
+                    MyExclReasonEDI := false;
+                //End BDS-6441
+
+                //RHE-AMKE 30-06-2022 Check If Exclude or Not!BDS-6441
+                if (Customer."Send EDI Invoice") and (not MyExclReasonEDI) then begin
                     //RHE-TNA 14-06-2021 BDS-5337 BEGIN
                     IFSetup.Get(IFSetup.GetIFSetupRecforDocNo("Sales Invoice Header"."Order No."));
                     IFSetup.TestField("Ship Confirmation Directory");
@@ -118,6 +133,8 @@ report 50018 "Export Sales Invoice/Shipment"
                         IFSetup.InsertChangeLog(112, "Sales Invoice Header"."No.", 'XML50007');
                     end;
                 end;
+
+
             end;
         }
     }
@@ -165,4 +182,6 @@ report 50018 "Export Sales Invoice/Shipment"
     //Global variables
     var
         IFSetup: Record "Interface Setup";
+        ResCode: Record "Reason Code";
+        MyExclReasonEDI: Boolean;
 }
