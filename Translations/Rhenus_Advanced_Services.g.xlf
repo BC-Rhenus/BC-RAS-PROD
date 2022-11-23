@@ -4813,6 +4813,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension Purchase Order List Ext - Action Import ASN - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3342069541 - Control 2192976610 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3348372542">
+          <source>Set this field to exclude the Reason being send in the Shipping Confirmation.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Reason Codes Extension - Control ExclReasonEDI - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4075462835 - Control 829470753 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
           <source>When an Order Line is created for type = Item, stock is automatically allocated. When changing order status to Released a check is done if the Order is completely allocated against stock .</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -5287,6 +5292,11 @@
           <source>Manufacture Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Purch. Line Extension - Field Manufacture Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1111213506 - Field 2192976610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1908046867">
+          <source>Exclude Reason on EDI.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Reason Code Ext. - Field ExclReasonEDI - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3893919921 - Field 3768415920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1948788855">
           <source>EDI Status</source>
