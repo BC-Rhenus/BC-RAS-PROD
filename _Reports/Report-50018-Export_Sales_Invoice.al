@@ -51,17 +51,21 @@ report 50018 "Export Sales Invoice/Shipment"
                 IFRecordParam: Record "Interface Record Parameters";
                 Export: Boolean;
             begin
+
                 //Check if customer is setup to send EDI invoice and ExclReasonEDI is not true
                 Customer.Get("Sales Invoice Header"."Sell-to Customer No.");
-                //Check has reason code and if has then check that sis flaged or no! Begin BDS-6441 
-                if "Sales Invoice Header"."Reason Code" <> '' then begin
-                    ResCode.Get("Sales Invoice Header"."Reason Code");
-                    if ResCode.ExclReasonEDI then
-                        MyExclReasonEDI := true
-                    else
+                //Check has reason code and if has then check that is flaged or no! Begin BDS-6441 
+                if ("Sales Invoice Header"."Reason Code" <> '') then begin
+                    if ResCode.Get("Sales Invoice Header"."Reason Code") then begin
+                        if ResCode.ExclReasonEDI then
+                            MyExclReasonEDI := true
+                        else
+                            MyExclReasonEDI := false;
+                    end else
                         MyExclReasonEDI := false;
                 end else
                     MyExclReasonEDI := false;
+
                 //End BDS-6441
 
                 //RHE-AMKE 30-06-2022 Check If Exclude or Not!BDS-6441
