@@ -46,6 +46,9 @@ codeunit 50000 "Events"
 //  - Added EventSubscriber to Tabel 37
 //    --> procedure CheckExceptionList()
 
+//RHE-AMKE 15-08-2022 BDS-6543 
+//Added If Statement to Control Release doc just On Order type
+
 {
     //Item Events
     [EventSubscriber(ObjectType::Table, 27, 'OnAfterInsertEvent', '', true, true)]
@@ -133,7 +136,7 @@ codeunit 50000 "Events"
         //MessageText001: TextConst
         //    ENU = 'Item %1 is marked as obsolete. Check if a Substition is available.';
         MessageText001: Label 'Item %1 is marked as obsolete. Check if a Substition is available.';
-        //RHE-TNA 21-01-2022 BDS-6037 END
+    //RHE-TNA 21-01-2022 BDS-6037 END
     begin
         if SalesLine.Type = SalesLine.Type::Item then begin
             if (Item.Get(SalesLine."No.")) and (Item."Obsolete Item") then begin
@@ -229,7 +232,7 @@ codeunit 50000 "Events"
         //MessageText001: TextConst
         //    ENU = 'Warehouse Shipment %1 is not sent to WMS, are you sure you want to Post this shipment?';
         MessageText001: Label 'Warehouse Shipment %1 is not sent to WMS, are you sure you want to Post this shipment?';
-        //RHE-TNA 21-01-2022 BDS-6037 END
+    //RHE-TNA 21-01-2022 BDS-6037 END
     begin
         WhseShptHdr.Get(WhseShptLine."No.");
         if not WhseShptHdr."Exported to WMS" then
@@ -265,19 +268,25 @@ codeunit 50000 "Events"
         end;
     end;
 
+
+    //RHE-AMKE 15-08-2022 BDS-6543 BEGIN
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Release Sales Document", 'OnBeforeManualReleaseSalesDoc', '', true, true)]
     local procedure CheckCompletelyReserved(var SalesHeader: Record "Sales Header"; PreviewMode: Boolean)
     var
         SalesSetup: Record "Sales & Receivables Setup";
         SalesHdr: Record "Sales Header";
     begin
-        SalesSetup.Get();
-        if (not PreviewMode) and (SalesSetup.AllocationMandatory) then begin
-            SalesHeader.SetFullyAllocated();
-            SalesHdr.Get(SalesHeader."Document Type", SalesHeader."No.");
-            if not SalesHdr."Completely Allocated" then
-                Error('Order ' + SalesHdr."No." + ' is not completely allocated against stock.');
+        //RHE-AMKE 15-08-2022 BDS-6543 BEGIN
+        if SalesHeader."Document Type" = SalesHeader."Document Type"::Order then begin
+            SalesSetup.Get();
+            if (not PreviewMode) and (SalesSetup.AllocationMandatory) then begin
+                SalesHeader.SetFullyAllocated();
+                SalesHdr.Get(SalesHeader."Document Type", SalesHeader."No.");
+                if not SalesHdr."Completely Allocated" then
+                    Error('Order ' + SalesHdr."No." + ' is not completely allocated against stock.');
+            end;
         end;
+        //RHE-AMKE 15-08-2022 BDS-6543 END
     end;
 
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Release Sales Document", 'OnBeforeManualReleaseSalesDoc', '', true, true)]
